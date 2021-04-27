@@ -1,0 +1,22 @@
+main{
+    position: relative;
+}
+.buttons{
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    z-index: 1;
+}
+.buttons a{
+    float: right;
+    margin-left: 20px;
+}
+
+.pagination a.pn {
+    display: inline-block; 
+    padding: 10px 15px; 
+    background: #fff;
+    color: #FFB100; 
+    margin: 0 5px; 
+}
+
